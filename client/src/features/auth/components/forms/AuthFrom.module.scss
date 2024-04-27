@@ -1,0 +1,40 @@
+.formContainer{
+    height: 100%;
+    width: 100%;
+    max-width: 500px;
+    justify-self: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 50px;
+}
+
+.loginBtn{
+    width: 100%;
+}
+
+.divider{
+    font-size: 14px !important;
+    font-weight: 500;
+}
+
+.inputs{
+    padding: 10px;
+}
+
+.signInForm{
+    max-width: 600;
+    width: 100%;
+    min-width: 300;
+}
+
+.forgotPWD{
+    display:flex;
+    justify-content:end;
+}
+
+.alertBanner{
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
